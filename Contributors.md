@@ -4753,3 +4753,4 @@ first contributions - hanyang univ.
 - [Angusson](https://github.com/Angusson)
 - [Zsolt Kacsandi](https://github.com/zsoltkacsandi)
 - [ByWill] (contributing to first contributions)
+- [Jakub Bujak](https://github.com/jakubbujak)
